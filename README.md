@@ -1,5 +1,5 @@
 # MCDropout-Uncertainty
-### Implementation OOD Detection using MCDropout - Uncertainty   
+### Implementation of OOD Detection using MCDropout - Uncertainty   
 
 In Distribution : CIFAR10 Dataset   
 Out of Distribution : SVHN Dataset        
