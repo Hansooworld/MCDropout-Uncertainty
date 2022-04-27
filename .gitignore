@@ -1,0 +1,4 @@
+data/
+__pycache__/
+model/vgg13_bn.pt
+model/vgg16_bn.pt
