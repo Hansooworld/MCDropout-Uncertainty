@@ -2,7 +2,11 @@
 ### Implementation OOD Detection using MCDropout - Uncertainty   
 
 In Distribution : CIFAR10 Dataset   
-Out of Distribution : SVHN Dataset      
+Out of Distribution : SVHN Dataset        
+Model : VGG13
+
+To use VGG13, you need to unzip the compressed file on model folder.
+
 
 You need to make a "data" folder and put SVHN Dataset in there.   
 You can download the SVHN Dataset in [SVHN DATASET](http://ufldl.stanford.edu/housenumbers/).
